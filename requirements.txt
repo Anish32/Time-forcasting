@@ -1,0 +1,1 @@
+streamlit\npandas\nyfinance\nnumpy\nmatplotlib\nscikit-learn\nkeras\ntensorflow\nstatsmodels
