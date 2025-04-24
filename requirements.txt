@@ -1,1 +1,9 @@
-streamlit\npandas\nyfinance\nnumpy\nmatplotlib\nscikit-learn\nkeras\ntensorflow\nstatsmodels
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+keras
+tensorflow
+statsmodels
